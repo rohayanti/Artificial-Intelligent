@@ -1,45 +1,34 @@
 # Artificial-Intelligent
 
-<a href="https://github.com/drshahizan/BDM/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/BDM" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/BDM/network/members"><img src="https://img.shields.io/github/forks/drshahizan/BDM" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/BDM/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/BDM" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/BDM"><img src="https://img.shields.io/github/issues/drshahizan/BDM" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/BDM/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2BDM&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
-
-# Big Data Management
-
 ![WBDM](https://media.licdn.com/dms/image/C4D12AQGH0S-uUENvNQ/article-cover_image-shrink_600_2000/0/1520206428749?e=2147483647&v=beta&t=22-VhN5U90hQDZFtdhy6YT5KxQdCmV9kLX7fzgPQS_0)
 
 ## Course Synopsis
-This course provides a basic fundamental of big data architecture and management.  Students will learn the big data processes and the current big data technologies that are available. Further, students will be exposed to the big data platform ecosystem for big data manipulation. The big data management will be explored for the best practice in managing and manipulating large amount of data. At the end of the course, students should be able to understand the architecture and management of big data and also can develop simple application of big data handling using particular platform in assignment.
+This course offers students a new perspective on the study of Artificial Intelligence (AI) concepts. The essential topics and theory of AI are presented, but it also includes practical information on data input and reduction as well as data output (i.e. algorithm usage). In particular, this course emphasizes on theoretical and practical aspects of various search algorithms, knowledge representations, and machine learning methods. The course features practical implementations through assignments undertaken both individually and in groups.
 
 ## Course Learning Outcomes
-1. Understand the technology for managing, processing and manipulating large amount of data.
-2. Design big data platform demonstrating the implementation of big data applications.
-3. Discuss current technology that support for sustainability of the big data platform ecosystem.
+1. Apply the fundamentals and concepts of AI using various types of AI solutions including search algorithms, knowledge representation and machine learning methods.
+2. Formulate the appropriate AI solutions using a selected method based on the problem given.
+3. Apply the appropriate solutions in AI to solve real problems in the project.
+
+# Weekly Schedule
+| Week | Dates                | Topic                                      | Content                                                         |
+|------|----------------------|--------------------------------------------|-----------------------------------------------------------------|
+| 1    | 8-14 Oct             | Computer and Intelligence                | Introduction to thinking, computer architecture, and intelligence, What is artificial intelligence (AI), AI timeline and current trend, Responsible AI, Key Workload AI, Artificial Intelligence in Microsoft Azure, Computational Intelligence, AI Applications, AI Applications and IR 4.0. |
+| 2-3  | 15 - 28 Oct          | Knowledge Representation                  | What is knowledge representation, Importance of representing knowledge, Syntax and semantics, Propositional logic, Predicate logic, Inference process, Proof procedure. Project & Assignment Briefing |
+| 4    | 29 Oct - 4 Nov       | Search Algorithms                         | Simplified Graph Theory (Structure for Problem-Solving), Exhaustive search algorithms, Breadth-first search, Depth-first search |
+| 5    | 5-11 Nov             | Search Algorithms (BFS & DFS)             | Simplified Graph Theory (Structure for Problem Solving), Exhaustive search algorithms, Breadth-first search, Depth-first search. Quiz 1. A1 Submission |
+| 6-7  | 12 Nov - 25 Nov      | Search Algorithms (Heuristic Algorithm)   | Heuristic search algorithm, Heuristic evaluation and best first search (including A* search), Evaluation criteria (admissibility, monotonicity, and informedness). Mid-Term Test (22 Nov 2023 8 pm - 10 pm). A2 Kick-off |
+| 8    | 26 Nov - 2 Dec       | MID SEMESTER BREAK                        |                                                                 |
+| 9    | 3-9 Dec              | Problem-Solving with Search (Minimax and Alpha-Beta Pruning) | Game playing (minimax and alpha-beta), Search engine, social media, and bots. A2 Submission, A3 Kick-off, Peer Review Part 1 |
+| 10   | 10-16 Dec            | Search Planning and Control                | Recursion based search, Pattern-based search                        |
+| 11-12| 17 Dec - 30 Dec      | Advanced Artificial Intelligence            | Agent and distributed-based search, Smart computing applications, Natural Language Processing Application, Computer Vision. Quiz 2. A3 Submission, Project Kick-off |
+| 13-14| 31 Dec - 13 Jan      | Machine Learning                           | Overview of machine learning, Supervised vs unsupervised learning, Classification, clustering, reinforcement, and regression, Machine Learning in Microsoft Azure Framework, Anomaly Detection |
+| 15   | 14-20 Jan            | Project Demo, Peer Review Part 2          |                                                                 |
+| 16-18|                      | REVISION WEEK AND FINAL EXAM              |                                                                 |
 
 ## 🔥 Important things
-1. [AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/60317)
+1. [Microsoft Azure AI Fundamentals: AI 900](https://awsacademy.instructure.com/courses/60317](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
 2. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
-3. [AWS Academy Data Engineering](https://awsacademy.instructure.com/courses/60401)
-4. [AWS Academy Machine Learning for Natural Language Processing](https://awsacademy.instructure.com/courses/60323)
-
-## Weekly Schedule
-
-| Week     | Topic                                                   |
-|:----------:|---------------------------------------------------------|
-| 1   | **Introduction to Big Data and Big Data Analytics** <br>- Fundamentals and concepts of big data |
-| 2   | **Big Data Processing and Technology** <br>- Batch, real-time, and streaming processing. <br>- Scalability, storage, sourcing challenges. |
-| 3-4 |  - ACID, BASE, and CAP theorem <br>- Distributed File Processing & Map Reduce Processing |
-| 5   | - Lambda Architecture |
-| 6-7 | **Relational Database (RDBMS)** <br>- Relational Data Modelling <br>- Database design phases                                |
-| 8   | **Relational Database (RDBMS)** <br>- SQL programming (DDL, DML, CRUD Operation)            |
-| 9   | **Relational Database (RDBMS)** <br> - SQL programming (Subqueries, Join Tables, Aggregate)  |
-| 10  | **No SQL Database** <br>- Introduction to No SQL database <br>- Semi-structured data Modelling (Key Value, Column Family, Document, and Graph) |
-| 11-12| **No SQL database (Document-based Database)** <br>- Document-based data modelling <br>- MongoDB query language |
-| 13-14| **Cloud Technology** <br>- Introduction to Cloud <br>- AWS Cloud (via AWS Learning Management System) |
-| 15  | Project Presentation |
 
 
 ## Project
@@ -48,10 +37,3 @@ This course provides a basic fundamental of big data architecture and management
 
 ## Tools
 
-## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/BDM/issues) for any improvements, suggestions or errors in the content.
-
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
