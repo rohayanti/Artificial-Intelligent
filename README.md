@@ -28,6 +28,8 @@ This course offers students a new perspective on the study of Artificial Intelli
 
 ## 🔥 Important things
 1. [Microsoft Azure AI Fundamentals: AI 900](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
+2. Student Information
+    - 🧑‍💻 [Section 07](./students.md)
 
 
 ## Project
