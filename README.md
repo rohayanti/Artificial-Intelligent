@@ -34,7 +34,7 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Topic 1](https://shorturl.at/ARTXZ)
     - 🔥 [Discussion A1](./A1/A1.md)
 4. Lecture Note
-    - 🔥 [Topic 1](./materials/01_AI OverviewV2.0.pdf)
+    - 🔥 [Topic 1](./materials/01_AI_OverviewV2.0.pdf)
       
 ## Project
 
