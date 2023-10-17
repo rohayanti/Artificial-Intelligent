@@ -8,4 +8,4 @@
 ![WBDM](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/AIScope.png)
 
 ## PROJECT DETAIL
-[Download guideline](./project/01ProjectAI.pdf)
+[Download guideline](./01ProjectAI.pdf)
