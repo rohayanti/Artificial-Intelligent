@@ -1,6 +1,6 @@
 # Artificial-Intelligent
 
-![WBDM](https://media.licdn.com/dms/image/C4D12AQGH0S-uUENvNQ/article-cover_image-shrink_600_2000/0/1520206428749?e=2147483647&v=beta&t=22-VhN5U90hQDZFtdhy6YT5KxQdCmV9kLX7fzgPQS_0)
+![WBDM](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/CampusChatbot.png)
 
 ## Course Synopsis
 This course offers students a new perspective on the study of Artificial Intelligence (AI) concepts. The essential topics and theory of AI are presented, but it also includes practical information on data input and reduction as well as data output (i.e. algorithm usage). In particular, this course emphasizes on theoretical and practical aspects of various search algorithms, knowledge representations, and machine learning methods. The course features practical implementations through assignments undertaken both individually and in groups.
@@ -28,7 +28,6 @@ This course offers students a new perspective on the study of Artificial Intelli
 
 ## 🔥 Important things
 1. [Microsoft Azure AI Fundamentals: AI 900](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
-2. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
 
 
 ## Project
