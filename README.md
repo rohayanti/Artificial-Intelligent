@@ -10,7 +10,7 @@ This course offers students a new perspective on the study of Artificial Intelli
 2. Formulate the appropriate AI solutions using a selected method based on the problem given.
 3. Apply the appropriate solutions in AI to solve real problems in the project.
 
-# Weekly Schedule
+### Weekly Schedule
 | Week | Dates                | Topic                                      | Content                                                         |
 |------|----------------------|--------------------------------------------|-----------------------------------------------------------------|
 | 1    | 8-14 Oct             | Computer and Intelligence                | Introduction to thinking, computer architecture, and intelligence, What is artificial intelligence (AI), AI timeline and current trend, Responsible AI, Key Workload AI, Artificial Intelligence in Microsoft Azure, Computational Intelligence, AI Applications, AI Applications and IR 4.0. |
@@ -27,7 +27,7 @@ This course offers students a new perspective on the study of Artificial Intelli
 | 16-18|                      | REVISION WEEK AND FINAL EXAM              |                                                                 |
 
 ## 🔥 Important things
-1. [Microsoft Azure AI Fundamentals: AI 900](https://awsacademy.instructure.com/courses/60317](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
+1. [Microsoft Azure AI Fundamentals: AI 900](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
 2. [AWS Academy Cloud Architecting](https://awsacademy.instructure.com/courses/60318)
 
 
