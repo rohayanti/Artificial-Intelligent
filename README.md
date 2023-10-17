@@ -6,9 +6,10 @@
 This course offers students a new perspective on the study of Artificial Intelligence (AI) concepts. The essential topics and theory of AI are presented, but it also includes practical information on data input and reduction as well as data output (i.e. algorithm usage). In particular, this course emphasizes on theoretical and practical aspects of various search algorithms, knowledge representations, and machine learning methods. The course features practical implementations through assignments undertaken both individually and in groups.
 
 ## Course Learning Outcomes
-1. Apply the fundamentals and concepts of AI using various types of AI solutions including search algorithms, knowledge representation and machine learning methods.
+1. Apply the fundamentals and concepts of AI using various types of AI solutions including search algorithms, knowledge representation, and machine learning methods.
 2. Formulate the appropriate AI solutions using a selected method based on the problem given.
 3. Apply the appropriate solutions in AI to solve real problems in the project.
+
 
 ### Weekly Schedule
 | Week | Dates                | Topic                                      | Content                                                         |
@@ -32,12 +33,14 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🧑‍💻 [Section 07](./students.md)
 3. Weekly Task
     - 🔥 [Topic 1](https://shorturl.at/ARTXZ)
-    - 🔥 [Discussion A1](./A1/A1.md)
+    - 🔥 [Discussion](./Assignment1/A1.md)
 4. Lecture Note
-    - 🔥 [Topic 1](./materials/01_AI_OverviewV2.0.pdf)
+    - 🔥 [Topic 1](./materials/01Topic1.pdf)
       
 ## Project
+1. [Project Guideline](./project/guideline.md)
 
+   
 ## Submission
 
 ## Tools
