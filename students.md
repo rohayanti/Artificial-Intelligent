@@ -6,8 +6,8 @@ Don't forget to hit the :star: if you like this repo.
 | ----- | ----- | ------ | :------: |
 | 1 | AMIRUL HANI BIN SYAFRIZON | AMIRUL | [:octocat:](https://github.com/rohayanti) |
 | 2 | IRDINA FATINI BINTI DZUL NAZRI | IRDINA | [:octocat:](https://github.com/rohayanti) |
-| 3 | MOHAMAD NORFIRDAUS BIN MOHAMAD SUKRI | NORFIRDAUS | [:octocat:](https://github.com/spacewitch123) |
-| 4 | MOHAMMED UMAIR KHYAM | UMAIR | [:octocat:](https://github.com/rohayanti) |
+| 3 | MOHAMAD NORFIRDAUS BIN MOHAMAD SUKRI | NORFIRDAUS | [:octocat:](https://github.com/XNORF) |
+| 4 | MOHAMMED UMAIR KHYAM | UMAIR | [:octocat:](https://github.com/spacewitch123) |
 | 5 | MOHUMMAD SYAZWI BIN SHAHARAN AKBAR | SYAZWI | [:octocat:](https://github.com/Awieknd) |
 | 6 | MUHAMMAD AKMAL BIN MOHAMAD NIZAM | AKMAL | [:octocat:](https://github.com/muhdakmaru) |
 | 7 | MUHAMMAD EIZAM BIN ROZLI HAS | EIZAM | [:octocat:](https://github.com/rohayanti) |
