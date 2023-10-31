@@ -25,11 +25,11 @@ Please identify whether the statements below are propositions or not, and provid
 
 Below are the propositions (A to E) for the fruit chatbot. These propositions can be used to represent various characteristics and attributes of different types of fruits in the chatbot's knowledge base. Convert the English sentences in parts (I) – (IV) into standard predicate logic sentences when given the following propositions:
 
-**A: x is a type of fruit.**
-**B: x is a common color of fruits.**
-**C: x is a fruit that is in season.**
-**D: x has a specific nutritional value.**
-**E: x is a fruit with a distinct aroma.**
+- **A: x is a type of fruit.**
+- **B: x is a common color of fruits.**
+- **C: x is a fruit that is in season.**
+- **D: x has a specific nutritional value.**
+- **E: x is a fruit with a distinct aroma.**
 
 1. "Some fruits are in season." 
    - Predicate Logic: ∃x (C(x))
