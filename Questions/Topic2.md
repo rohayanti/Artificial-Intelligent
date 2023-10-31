@@ -25,11 +25,11 @@ Please identify whether the statements below are propositions or not, and provid
 
 Below are the propositions (A to E) for the fruit chatbot. These propositions can be used to represent various characteristics and attributes of different types of fruits in the chatbot's knowledge base. Convert the English sentences in parts (I) – (IV) into standard predicate logic sentences when given the following propositions:
 
-A: x is a type of fruit.
-B: x is a common color of fruits.
-C: x is a fruit that is in season.
-D: x has a specific nutritional value.
-E: x is a fruit with a distinct aroma.
+**A: x is a type of fruit.**
+**B: x is a common color of fruits.**
+**C: x is a fruit that is in season.**
+**D: x has a specific nutritional value.**
+**E: x is a fruit with a distinct aroma.**
 
 1. "Some fruits are in season." 
    - Predicate Logic: ∃x (C(x))
@@ -43,14 +43,17 @@ E: x is a fruit with a distinct aroma.
 4. "Not all fruits are in season." 
    - Predicate Logic: ¬∀x (C(x))
 
-5. "There exist fruits that are not in season." 
+5. "Some fruits have a specific nutritional value." 
+   - Predicate Logic: ∃x (D(x))
+
+6. "All fruits are types of fruit." 
+   - Predicate Logic: ∀x (A(x))
+
+7. "There exist fruits that are not in season." 
    - Predicate Logic: ∃x (¬C(x))
 
-6. "No fruits have a distinct aroma." 
+8. "No fruits have a distinct aroma." 
    - Predicate Logic: ¬∃x (E(x))
 
-7. "Some fruits are not a type of fruit." 
+9. "Some fruits are not a type of fruit." 
    - Predicate Logic: ∃x (¬A(x))
-
-7. "Banana something that with yellow color" (True/False?)
-   - Proposition: False. The statement is unclear and does not make a specific and clear assertion about bananas. It is difficult to determine what the statement is trying to convey.
