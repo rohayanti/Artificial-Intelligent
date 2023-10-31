@@ -21,6 +21,9 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Discussion](./Assignment1/A1.md)
 4. Lecture Note
     - 🔥 [Topic 1](./materials/01Topic1.pdf)
+5. Sample of Questions
+    - 🔥 [Topic 2](./Questions/Topic.md)
+
 
 ### Weekly Schedule
 | Week | Dates                | Topic                                      | Content                                                         |
