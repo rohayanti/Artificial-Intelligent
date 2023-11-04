@@ -59,4 +59,4 @@ Below are the propositions (A to E) for the fruit chatbot. These propositions ca
    - Predicate Logic: ∃x (¬A(x))
 _________________________________________________________________________________________________________
 
-!alt https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/AIKR.png
+![AIKR](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/AIKR.png)
