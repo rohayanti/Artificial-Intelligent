@@ -57,3 +57,6 @@ Below are the propositions (A to E) for the fruit chatbot. These propositions ca
 
 9. "Some fruits are not a type of fruit." 
    - Predicate Logic: ∃x (¬A(x))
+_________________________________________________________________________________________________________
+
+!alt https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/AIKR.png
