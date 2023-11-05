@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | MOHUMMAD SYAZWI BIN SHAHARAN AKBAR | SYAZWI | [:octocat:](https://github.com/Awieknd) |
 | 4 | MUHAMMAD AKMAL BIN MOHAMAD NIZAM | AKMAL | [:octocat:](https://github.com/muhdakmaru) |
 | 5 | MUHAMMAD FARHAN BIN AZMI | FARHAN | [:octocat:](https://github.com/JiEun2001) |
-| 6 | MUHAMMAD IZMEER BIN ZULKIFLEE | IZMEER | [:octocat:](https://github.com/rohayanti) |
+| 6 | MUHAMMAD IZMEER BIN ZULKIFLEE | IZMEER | [:octocat:](https://github.com/ItsJustIzmeer) |
 | 7 | MUHAMMAD RITZFARHAN ROSLI BIN RITZWA ROSLI | RITZFARHAN | [:octocat:](https://github.com/Ritzfarhan) |
 | 8 | NUR FAZREEN LAILA BINTI PAUDZI | 	FAZREEN | [:octocat:](https://github.com/laila772) |
 | 9 |  NURSHAZLEEN BINTI SOLKAPELI | NURSHAZLEEN | [:octocat:](https://github.com/nrshcz) |
