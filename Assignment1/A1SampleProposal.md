@@ -54,31 +54,12 @@ In this chapter, we present the system architecture for the AI-driven chatbot pr
 
 ## System Architecture Overview
 
-The proposed system architecture is designed to consist of the following key components:
+The proposed system architecture is designed to consist of the following key components as illustrated in Figure 1.
 
-1. **User Interface (UI):**
-   - The front-end component that enables user interaction with the chatbot.
-   - Collects user queries and displays responses from the chatbot.
 
-2. **Inference System:**
-   - The core of the system responsible for processing user queries and drawing conclusions.
-   - Utilizes the Knowledge Base and inference algorithms to generate context-specific responses.
+## Figure 1: System Architecture Diagram
 
-3. **Knowledge Base:**
-   - A structured repository of information about fruits, encompassing facts, attributes, nutritional data, recipes, and health benefits.
-   - Serves as the foundation for the chatbot's responses, ensuring accuracy and reliability.
-
-4. **Knowledge Base Update Mechanism:**
-   - An essential component responsible for periodic updates of the Knowledge Base.
-   - Ensures that the chatbot stays current with the latest information about fruits.
-
-5. **API Layer (Optional):**
-   - Facilitates communication with external databases, services, and information sources for data enrichment.
-
-## System Architecture Diagram
-
-Here is a simplified textual representation of the proposed system architecture:
-
+Must put diagram here
 
 
 ## Components and Their Descriptions
@@ -90,6 +71,7 @@ Here is a simplified textual representation of the proposed system architecture:
 | Knowledge Base               | Repository of structured information about fruits, serving as the foundation for chatbot responses. |
 | Knowledge Base Update Mechanism | Ensures periodic updates of the Knowledge Base, keeping it current with the latest fruit-related information. |
 | API Layer (Optional)         | Facilitates external communication for data enrichment and integration with external resources.  |
+
 
 ## System Workflow
 
