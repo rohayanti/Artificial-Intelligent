@@ -91,8 +91,6 @@ Below are the propositions (A to E) for the fruit chatbot. These propositions ca
    - Predicate Logic: ∃x (¬A(x))
 _________________________________________________________________________________________________________
 
-Certainly, here are the questions and answers in Markdown format:
-
 **1. Given the notations:**
    - p = my breakfast is eggs.
    - q = my breakfast is cereal.
@@ -101,6 +99,27 @@ Certainly, here are the questions and answers in Markdown format:
    a. Write the logic form (expression) for this statement 'my breakfast is either eggs or cereal, and toast'.
 
    **Answer:** The logic form (expression) for the statement 'my breakfast is either eggs or cereal, and toast' is: (p ∨ q) ∧ r.
+
+   b. Complete the truth table for the above expression in (a).
+
+   **Answer:**
+
+|  p  |  q  |  r  | (p ∨ q) ∧ r |
+|:---:|:---:|:---:|:------------:|
+|  0  |  0  |  0  |      0       |
+|  0  |  0  |  1  |      1       |
+|  0  |  1  |  0  |      0       |
+|  0  |  1  |  1  |      1       |
+|  1  |  0  |  0  |      0       |
+|  1  |  0  |  1  |      1       |
+|  1  |  1  |  0  |      0       |
+|  1  |  1  |  1  |      1       |
+
+In the truth table:
+- 'p,' 'q,' and 'r' represent the values of the statements 'eggs,' 'cereal,' and 'toast,' respectively.
+- The expression (p ∨ q) ∧ r represents the statement 'my breakfast is either eggs or cereal and toast.'
+- A 1 indicates that the statement is true for a given combination of values, while a 0 indicates that the statement is false.
+
 
    c. Write the English sentence for (p AND q) OR r.
 
