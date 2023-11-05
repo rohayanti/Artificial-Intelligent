@@ -62,16 +62,6 @@ The proposed system architecture is designed to consist of the following key com
 Must put diagram here
 
 
-## Components and Their Descriptions
-
-| Component                    | Description                                                                                       |
-|------------------------------|---------------------------------------------------------------------------------------------------|
-| User Interface (UI)          | Front-end component for user interaction, collects user input, and displays chatbot responses.   |
-| Inference System             | Core component for processing user queries, drawing conclusions, and generating context-specific responses. |
-| Knowledge Base               | Repository of structured information about fruits, serving as the foundation for chatbot responses. |
-| Knowledge Base Update Mechanism | Ensures periodic updates of the Knowledge Base, keeping it current with the latest fruit-related information. |
-| API Layer (Optional)         | Facilitates external communication for data enrichment and integration with external resources.  |
-
 
 
 ## Components and Their Descriptions
@@ -83,6 +73,7 @@ Must put diagram here
 | Knowledge Base               | Repository of structured information about fruits, serving as the foundation for chatbot responses. | - MySQL for structured data            |
 | Knowledge Base Update Mechanism | Ensures periodic updates of the Knowledge Base, keeping it current with the latest fruit-related information. | - Python scripts for data scraping and updating   |
 | API Layer (Optional)         | Facilitates external communication for data enrichment and integration with external resources.  | - Node.js with Express for building RESTful APIs   |
+
 
 
 ## System Workflow
