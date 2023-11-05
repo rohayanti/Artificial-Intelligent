@@ -91,4 +91,50 @@ Below are the propositions (A to E) for the fruit chatbot. These propositions ca
    - Predicate Logic: ∃x (¬A(x))
 _________________________________________________________________________________________________________
 
+Certainly, here are the questions and answers in Markdown format:
+
+**1. Given the notations:**
+   - p = my breakfast is eggs.
+   - q = my breakfast is cereal.
+   - r = (my breakfast is) toast.
+
+   a. Write the logic form (expression) for this statement 'my breakfast is either eggs or cereal, and toast'.
+   
+   **Answer:** (p ∨ q) ∧ r
+
+   b. Complete the truth table for the above expression in (a).
+
+   **Answer:**
+   ```
+   |  p  |  q  |  r  | (p ∨ q) ∧ r |
+   |:---:|:---:|:---:|:------------:|
+   |  0  |  0  |  0  |      0       |
+   |  0  |  0  |  1  |      1       |
+   |  0  |  1  |  0  |      0       |
+   |  0  |  1  |  1  |      1       |
+   |  1  |  0  |  0  |      0       |
+   |  1  |  0  |  1  |      1       |
+   |  1  |  1  |  0  |      0       |
+   |  1  |  1  |  1  |      1       |
+
+   In the truth table, 'p,' 'q,' and 'r' represent the values of the statements 'eggs,' 'cereal,' and 'toast,' respectively. The expression (p ∨ q) ∧ r represents the statement 'my breakfast is either eggs or cereal, and toast,' with 1 indicating true and 0 indicating false for each combination of values.
+
+   c. Write the English sentence for (p AND q) OR r
+
+   **Answer:** "My breakfast is both eggs and cereal, or it is toast."
+
+   d. Write the English sentence for (NOT p) OR q
+
+   **Answer:** "I do not have eggs for breakfast, or I have cereal for breakfast."
+
+**2. I want pizza A, maybe pizza B, but I also want pizza C. Which pizza combinations will make me happy?**
+
+**Answer:** To find out which pizza combinations will make you happy, you can choose pizza A and optionally add pizza B, but you must also include pizza C in the combination to be happy. In symbolic form, this can be expressed as:
+
+A ∧ (B ∨ C)
+
+This means you want pizza A, and you can choose to have pizza B or not, but you must have pizza C to be happy.
+
+_________________________________________________________________________________________________________
+
 ![AIKR](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/AIKR.png)
