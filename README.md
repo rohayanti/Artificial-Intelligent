@@ -30,7 +30,9 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Group 2](./Assignment1/)
     - 🔥 [Group 3](./Assignment1/)
     - 🔥 [Group 4](./Assignment1/)
-
+7. Assignment 2
+8. Assignment 3
+9. Prototype
 
 
 ### Weekly Schedule
