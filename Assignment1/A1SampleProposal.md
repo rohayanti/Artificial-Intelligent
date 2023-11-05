@@ -48,3 +48,66 @@ Given the complexities and multifaceted nature of this challenge, a robust and e
 
 
 
+# Chapter 3: System Architecture with Knowledge Base and Inference System
+
+In this chapter, we present the system architecture for the AI-driven chatbot prototype designed to provide comprehensive information about fruits. The architecture leverages a Knowledge Base and an Inference System to enhance the chatbot's knowledge and responsiveness.
+
+## System Architecture Overview
+
+The proposed system architecture is designed to consist of the following key components:
+
+1. **User Interface (UI):**
+   - The front-end component that enables user interaction with the chatbot.
+   - Collects user queries and displays responses from the chatbot.
+
+2. **Inference System:**
+   - The core of the system responsible for processing user queries and drawing conclusions.
+   - Utilizes the Knowledge Base and inference algorithms to generate context-specific responses.
+
+3. **Knowledge Base:**
+   - A structured repository of information about fruits, encompassing facts, attributes, nutritional data, recipes, and health benefits.
+   - Serves as the foundation for the chatbot's responses, ensuring accuracy and reliability.
+
+4. **Knowledge Base Update Mechanism:**
+   - An essential component responsible for periodic updates of the Knowledge Base.
+   - Ensures that the chatbot stays current with the latest information about fruits.
+
+5. **API Layer (Optional):**
+   - Facilitates communication with external databases, services, and information sources for data enrichment.
+
+## System Architecture Diagram
+
+Here is a simplified textual representation of the proposed system architecture:
+
+
+
+## Components and Their Descriptions
+
+| Component                    | Description                                                                                       |
+|------------------------------|---------------------------------------------------------------------------------------------------|
+| User Interface (UI)          | Front-end component for user interaction, collects user input, and displays chatbot responses.   |
+| Inference System             | Core component for processing user queries, drawing conclusions, and generating context-specific responses. |
+| Knowledge Base               | Repository of structured information about fruits, serving as the foundation for chatbot responses. |
+| Knowledge Base Update Mechanism | Ensures periodic updates of the Knowledge Base, keeping it current with the latest fruit-related information. |
+| API Layer (Optional)         | Facilitates external communication for data enrichment and integration with external resources.  |
+
+## System Workflow
+
+1. A user interacts with the chatbot through the user interface, posing questions or seeking information about fruits.
+
+2. The user interface forwards the query to the inference system.
+
+3. The inference system processes the query, extracting relevant data from the Knowledge Base and applying inference rules.
+
+4. Based on the extracted data and inference results, the inference system generates context-specific responses.
+
+5. The user interface displays the responses to the user.
+
+## Benefits of the System
+
+- **Accuracy:** The Knowledge Base ensures that chatbot responses are based on reliable and up-to-date data.
+- **Contextual Understanding:** The inference system allows the chatbot to comprehend the context of user queries and provide relevant responses.
+- **Customization:** Rules and algorithms in the inference system can be tailored to cater to specific user needs.
+- **Continuous Learning:** The Knowledge Base update mechanism ensures that the chatbot remains current with the latest information about fruits.
+
+The proposed system architecture, integrating a Knowledge Base and an Inference System, equips the chatbot to provide precise, context-aware information about fruits, addressing the diverse needs of consumers, nutritionists, researchers, and more.
