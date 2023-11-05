@@ -14,7 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 | 8 | NUR FAZREEN LAILA BINTI PAUDZI | 	FAZREEN | [:octocat:](https://github.com/laila772) |
 | 9 |  NURSHAZLEEN BINTI SOLKAPELI | NURSHAZLEEN | [:octocat:](https://github.com/nrshcz) |
 | 10 | NURUL NADIA AINAA BT ALIAS | NADIA | [:octocat:](https://github.com/nadyaainaa) |
-| 11 | OMAR AHMED MOHAMED ABDELMONEIM | OMAR | [:octocat:](https://github.com/rohayanti) |
+| 11 | OMAR AHMED MOHAMED ABDELMONEIM | OMAR | [:octocat:](https://github.com/OmarAhmed1x) |
 
 
 ## Group Information: Section 07
