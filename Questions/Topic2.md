@@ -91,8 +91,6 @@ Below are the propositions (A to E) for the fruit chatbot. These propositions ca
    - Predicate Logic: ∃x (¬A(x))
 _________________________________________________________________________________________________________
 
-Certainly, here are the questions and answers in Markdown format:
-
 **1. Given the notations:**
    - p = my breakfast is eggs.
    - q = my breakfast is cereal.
@@ -117,13 +115,13 @@ Certainly, here are the questions and answers in Markdown format:
    |  1  |  1  |  0  |      0       |
    |  1  |  1  |  1  |      1       |
 
-   In the truth table, 'p,' 'q,' and 'r' represent the values of the statements 'eggs,' 'cereal,' and 'toast,' respectively. The expression (p ∨ q) ∧ r represents the statement 'my breakfast is either eggs or cereal, and toast,' with 1 indicating true and 0 indicating false for each combination of values.
+In the truth table, 'p,' 'q,' and 'r' represent the values of the statements 'eggs,' 'cereal,' and 'toast,' respectively. The expression (p ∨ q) ∧ r represents the statement 'my breakfast is either eggs or cereal and toast,' with 1 indicating true and 0 indicating false for each combination of values.
 
-   c. Write the English sentence for (p AND q) OR r
+c. Write the English sentence for (p AND q) OR r
 
    **Answer:** "My breakfast is both eggs and cereal, or it is toast."
 
-   d. Write the English sentence for (NOT p) OR q
+d. Write the English sentence for (NOT p) OR q
 
    **Answer:** "I do not have eggs for breakfast, or I have cereal for breakfast."
 
@@ -133,8 +131,7 @@ Certainly, here are the questions and answers in Markdown format:
 
 A ∧ (B ∨ C)
 
-This means you want pizza A, and you can choose to have pizza B or not, but you must have pizza C to be happy.
-
-_________________________________________________________________________________________________________
+This means you want pizza A, and you can choose to have pizza B or not, but you must have pizza C to be happy. 
+_____________________________
 
 ![AIKR](https://github.com/rohayanti/Artificial-Intelligent/blob/main/image/AIKR.png)
