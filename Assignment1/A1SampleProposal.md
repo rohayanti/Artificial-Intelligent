@@ -73,6 +73,18 @@ Must put diagram here
 | API Layer (Optional)         | Facilitates external communication for data enrichment and integration with external resources.  |
 
 
+
+## Components and Their Descriptions
+
+| Component                    | Description                                                                                       | Technology Recommendation               |
+|------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------|
+| User Interface (UI)          | Front-end component for user interaction, collects user input, and displays chatbot responses.   | - React (JavaScript library)            |
+| Inference System             | Core component for processing user queries, drawing conclusions, and generating context-specific responses. | - Python with open-source NLP libraries (e.g., spaCy, NLTK)   |
+| Knowledge Base               | Repository of structured information about fruits, serving as the foundation for chatbot responses. | - MySQL for structured data            |
+| Knowledge Base Update Mechanism | Ensures periodic updates of the Knowledge Base, keeping it current with the latest fruit-related information. | - Python scripts for data scraping and updating   |
+| API Layer (Optional)         | Facilitates external communication for data enrichment and integration with external resources.  | - Node.js with Express for building RESTful APIs   |
+
+
 ## System Workflow
 
 1. A user interacts with the chatbot through the user interface, posing questions or seeking information about fruits.
