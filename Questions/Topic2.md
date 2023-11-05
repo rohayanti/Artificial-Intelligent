@@ -100,7 +100,15 @@ ________________________________________________________________________________
 
    **Answer:** The logic form (expression) for the statement 'my breakfast is either eggs or cereal, and toast' is: (p ∨ q) ∧ r.
 
-   b. Complete the truth table for the above expression in (a).
+   b. Write the English sentence for (p AND q) OR r.
+
+   **Answer:** The English sentence for (p AND q) OR r is: "My breakfast is both eggs and cereal, or it is toast."
+
+   c. Write the English sentence for (NOT p) OR q.
+
+   **Answer:** The English sentence for (NOT p) OR q is: "I do not have eggs for breakfast, or I have cereal for breakfast."
+
+   d. Complete the truth table for the above expression in (a).
 
    **Answer:**
 
@@ -120,14 +128,6 @@ In the truth table:
 - The expression (p ∨ q) ∧ r represents the statement 'my breakfast is either eggs or cereal and toast.'
 - A 1 indicates that the statement is true for a given combination of values, while a 0 indicates that the statement is false.
 
-
-   c. Write the English sentence for (p AND q) OR r.
-
-   **Answer:** The English sentence for (p AND q) OR r is: "My breakfast is both eggs and cereal, or it is toast."
-
-   d. Write the English sentence for (NOT p) OR q.
-
-   **Answer:** The English sentence for (NOT p) OR q is: "I do not have eggs for breakfast, or I have cereal for breakfast."
 
 **2. I want pizza A, maybe pizza B, but I also want pizza C. Which pizza combinations will make me happy?**
 
