@@ -23,6 +23,38 @@ Please identify whether the statements below are propositions or not, and provid
   
 ---------------------------------------------------------------------------------
 
+Here are the multiple-choice questions in Markdown format with the correct answers highlighted:
+
+1. In the FOL statement "likes(john, apples)," what are the constants?
+
+   a. likes and john
+   b. likes and apples
+   c. **john and apples**
+   d. likes, john, and apples
+
+2. In the FOL statement "likes(john, apples)," what is "likes"?
+
+   a. A constant
+   b. **A predicate**
+   c. A variable
+   d. A function
+
+3. What is the purpose of variables in FOL?
+
+   a. To represent constants
+   b. To represent properties and relations
+   c. To qualify values of constants
+   d. **To represent any object**
+
+4. In the FOL statement "∀X likes(X, apples)," what does "∀X" represent?
+
+   a. A constant
+   b. A predicate
+   c. A function
+   d. **A universal quantifier**
+
+---------------------------------------------------------------------------------
+
 Below are the propositions (A to E) for the fruit chatbot. These propositions can be used to represent various characteristics and attributes of different types of fruits in the chatbot's knowledge base. Convert the English sentences in parts (I) – (IV) into standard predicate logic sentences when given the following propositions:
 
 - **A: x is a type of fruit.**
