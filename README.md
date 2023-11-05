@@ -18,13 +18,19 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🧑‍💻 [Section 07](./students.md)
 3. Weekly Task
     - 🔥 [Topic 1](https://shorturl.at/ARTXZ) ; [Topic 2](https://tinyurl.com/2rm87rp8)
-    - 🔥 [Discussion](./Assignment1/A1.md)
     - 🔥 [Coding KR](./materials/AIKR.ipynb)
 4. Lecture Note
     - 🔥 [Topic 1](./materials/01Topic1.pdf)
     - 🔥 [Topic 2](./materials/02Topic2.pdf)
 5. Sample of Questions
-    - 🔥 [Topic 2](./Questions/Topic2.md) 
+    - 🔥 [Topic 2](./Questions/Topic2.md)
+6. Assignment 1
+    - 🔥 [Submission](./Assignment1/A1.md)
+    - 🔥 [Sample of A1](./Assignment1/A1SampleProposal.md)
+    - 🔥 [Group 2](./Assignment1/)
+    - 🔥 [Group 3](./Assignment1/)
+    - 🔥 [Group 4](./Assignment1/)
+
 
 
 ### Weekly Schedule
