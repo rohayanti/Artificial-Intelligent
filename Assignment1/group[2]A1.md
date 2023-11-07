@@ -48,29 +48,33 @@ To address the complexities and individualized nature of course scheduling, an a
 
 **Empathy Map from the Stakeholders' Perspective:**
 
-*For Consumers:*
-- **Think & Feel:** Consumers want to make healthy choices and feel confident about their dietary decisions. They may feel overwhelmed by the abundance of fruit-related information.
-- **Hear:** They hear recommendations from peers, health experts, and online sources regarding the benefits of different fruits.
-- **See:** Consumers see various fruits in supermarkets and online, often with conflicting information about their nutritional value and benefits.
-- **Say & Do:** They may express frustration when they can't find clear, trustworthy information. They actively search for recipes, dietary advice, and fruit-related content.
-- **Pain:** The pain point for consumers is the difficulty in sifting through vast amounts of information to make informed choices.
+*For Students:*
+- **Think & Feel:** Students aim to create an efficient and balanced class schedule while achieving their academic goals. They may feel stressed and overwhelmed by the complexity of course scheduling.    
+- **Hear:** They hear advice and tips from peers about managing course schedules. They may also receive guidance from academic advisors.
+- **See:** Students see the course catalog with various class options, and they may encounter time clashes and fully registered classes.
+- **Say & Do:** They may express frustration when they face class scheduling conflicts or long gaps between classes. They actively seek information on courses, class timings, and scheduling tools.
+- **Pain:** The pain point for students is the challenge of coordinating class schedules efficiently and avoiding time clashes, which can disrupt their academic progress.
 
-*For Nutritionists and Dietitians:*
-- **Think & Feel:** They think about providing the best advice to their clients and feel the weight of responsibility.
-- **Hear:** They hear from clients about the challenges they face in understanding fruit-related nutritional information.
-- **See:** They see the need for a reliable resource that simplifies fruit-related data.
-- **Say & Do:** They actively seek a tool that can provide comprehensive and accurate information to support their recommendations.
-- **Pain:** The pain point for nutritionists is the time and effort required to find and present fruit-related data to clients.
+*For Faculty and Administrators:*
+- **Think & Feel:** Faculty and administrators aim to efficiently manage courses and resources. They may feel the pressure to optimize course assignments and meet students' scheduling needs.
+- **Hear:** They hear feedback and requests from students and academic advisors regarding course scheduling challenges.
+- **See:** They see the need for a system that simplifies class scheduling, reduces time clashes, and improves resource allocation.
+- **Say & Do:** They actively seek tools and solutions to streamline the course scheduling process and meet the diverse needs of students.
+- **Pain:** The pain point for faculty and administrators is the complexity of course scheduling and the potential impact on students' academic experiences.
 
+*For Academic Advisors:*
+- **Think & Feel:** Academic advisors aim to provide guidance and support to students in their course selections. They may feel responsible for helping students make informed decisions.
+- **Hear:** They hear about students' scheduling challenges and concerns about course choices.
+- **See:** They see the need for a system that can offer real-time scheduling assistance and help students align their courses with academic goals.
+- **Say & Do:** They actively seek tools to assist students in selecting courses that fit their academic plans and preferences.
+- **Pain:** The pain point for academic advisors is the time and effort required to provide personalized scheduling guidance to a large number of students.
 
 
 # Chapter 3: System Architecture with Knowledge Base and Inference System
 
-In this chapter, we present the system architecture for the AI-driven chatbot prototype designed to provide comprehensive information about fruits. The architecture leverages a Knowledge Base and an Inference System to enhance the chatbot's knowledge and responsiveness.
-
 ## System Architecture Overview
 
-The proposed system architecture is designed to consist of the following key components as illustrated in Figure 1.
+The Faculty Course Scheduling Chatbot's architecture will consist of the following key components as illustrated in Figure 1.
 
 
 ## Figure 1: System Architecture Diagram
@@ -84,31 +88,37 @@ Must put diagram here
 
 | Component                    | Description                                                                                       | Technology Recommendation               |
 |------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------|
-| User Interface (UI)          | Front-end component for user interaction, collects user input, and displays chatbot responses.   | - React (JavaScript library)            |
-| Inference System             | Core component for processing user queries, drawing conclusions, and generating context-specific responses. | - Python with open-source NLP libraries (e.g., spaCy, NLTK)   |
-| Knowledge Base               | Repository of structured information about fruits, serving as the foundation for chatbot responses. | - MySQL for structured data            |
-| Knowledge Base Update Mechanism | Ensures periodic updates of the Knowledge Base, keeping it current with the latest fruit-related information. | - Python scripts for data scraping and updating   |
-| API Layer (Optional)         | Facilitates external communication for data enrichment and integration with external resources.  | - Node.js with Express for building RESTful APIs   |
+| User Interface (UI)          | Front-end component for user interaction, collects scheduling preferences, and displays schedule options.   | - Web-based interface probablu use laravel            |
+| Inference System             | Core component for processing student queries, generating class schedules, and offering real-time recommendations. | - Python with AI scheduling algorithms  |
+| Knowledge Base               | Repository of course information, including class schedules, course prerequisites, instructor data, and room accessibility. | - Relational database for structured data           |
+| Knowledge Base Update Mechanism | Ensures periodic updates of the Knowledge Base to reflect course changes and availability.|- Automated data import processes   |
+| Notification System         | Sends alerts and reminders to students regarding class schedules, course availability, and exam details.  | - Email, SMS, or app notifications   |
 
 
 
 ## System Workflow
 
-1. A user interacts with the chatbot through the user interface, posing questions or seeking information about fruits.
+1. Students interact with the chatbot through the user interface, providing their course preferences and constraints.
 
-2. The user interface forwards the query to the inference system.
+2. The chatbot's inference system processes the student's input and queries the Knowledge Base for available courses.
 
-3. The inference system processes the query, extracting relevant data from the Knowledge Base and applying inference rules.
+3. The chatbot generates and presents multiple schedule options, considering student preferences, course prerequisites, and real-time course availability.
 
-4. Based on the extracted data and inference results, the inference system generates context-specific responses.
+4. Students can choose a suitable class schedule or request adjustments.
 
-5. The user interface displays the responses to the user.
+5. The chatbot sends notifications and reminders to students for critical scheduling events.
 
 ## Benefits of the System
 
-- **Accuracy:** The Knowledge Base ensures that chatbot responses are based on reliable and up-to-date data.
-- **Contextual Understanding:** The inference system allows the chatbot to comprehend the context of user queries and provide relevant responses.
-- **Customization:** Rules and algorithms in the inference system can be tailored to cater to specific user needs.
-- **Continuous Learning:** The Knowledge Base update mechanism ensures that the chatbot remains current with the latest information about fruits.
+- **Personalization:** The chatbot tailors schedules to each student's academic needs and preferences.
+- **Real-time Information :** Offers immediate access to course availability, instructor data, and room accessibility.
+- **Efficiency:** Streamlines the course selection process, reducing scheduling conflicts and time spent planning.
+- **Support for Stakeholders:** Helps faculty, advisors, and parents/guardians in ensuring students make informed scheduling decisions.
+- **Timely Alerts:**Keeps students informed about class schedule changes, exams, and course openings.
 
-The proposed system architecture, integrating a Knowledge Base and an Inference System, equips the chatbot to provide precise, context-aware information about fruits, addressing the diverse needs of consumers, nutritionists, researchers, and more.
+The proposed Faculty Course Scheduling Chatbot, utilizing AI scheduling algorithms and a robust Knowledge Base, aims to assist students in managing their academic schedules effectively and enhancing their overall university experience.
+
+
+
+
+
