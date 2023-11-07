@@ -21,7 +21,8 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Coding KR](./materials/AIKR.ipynb)
 4. Lecture Note
     - 🔥 [Topic 1](./materials/01Topic1.pdf)
-    - 🔥 [Topic 2](./materials/02Topic2.pdf)
+    - 🔥 [Topic 2 Part 1](./materials/02Topic2.pdf)
+    - 🔥 [Topic 2 Part 2](./materials/02Topic2Part2.pdf) 
 5. Sample of Questions
     - 🔥 [Topic 2](./Questions/Topic2.md)
 6. Assignment 1
