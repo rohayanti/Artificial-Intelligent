@@ -26,7 +26,8 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Topic 3 Part 1](./materials/03Topic3Part1.pdf)
     - 🔥 [Topic 3 Part 2](./materials/03aTopic3Part2.pdf) 
 5. Sample of Questions
-    - 🔥 [Topic 1, Topic 2, Topic 3](./Questions/Topic2.md)
+    - 🔥 [Objective Topic 1, Topic 2, Topic 3](./Questions/Topic2.md)
+    - 🔥 [Structured Topic 1, Topic 2, Topic 3](./materials/RevisionMT23.pdf)
 6. Assignment 1
     - 🔥 [Submission](./Assignment1/A1.md)
     - 🔥 [Sample of A1](./Assignment1/A1SampleProposal.md)
