@@ -22,9 +22,11 @@ This course offers students a new perspective on the study of Artificial Intelli
 4. Lecture Note
     - 🔥 [Topic 1](./materials/01Topic1.pdf)
     - 🔥 [Topic 2 Part 1](./materials/02Topic2.pdf)
-    - 🔥 [Topic 2 Part 2](./materials/02Topic2Part2.pdf) 
+    - 🔥 [Topic 2 Part 2](./materials/02Topic2Part2.pdf)
+    - 🔥 [Topic 3 Part 1](./materials/03Topic3Part1.pdf)
+    - 🔥 [Topic 3 Part 2](./materials/03aTopic3Part2.pdf) 
 5. Sample of Questions
-    - 🔥 [Topic 2](./Questions/Topic2.md)
+    - 🔥 [Topic 1, Topic 2, Topic 3](./Questions/Topic2.md)
 6. Assignment 1
     - 🔥 [Submission](./Assignment1/A1.md)
     - 🔥 [Sample of A1](./Assignment1/A1SampleProposal.md)
