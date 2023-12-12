@@ -1,5 +1,9 @@
+## Activity on 13/12/2023
+1. Every group must create 1 file named "group[no]Activity2.md" that contains the following information: A) Sketch of UI flow and B) 10 questions-and-answer for the chatbot
+2. This file must be created inside this directory [Artificial-Intelligent/Assignment2]
+   
 ## Submissions
-1. Every group must create 1 file named "group[no]A2.md" that contains all the above information. This file must be created inside this directory [Artificial-Intelligent/Assignment2]
+1. Every group must create 1 file named "group[no]A2.md" that contains information as instructed in the guideline below. This file must be created inside this directory [Artificial-Intelligent/Assignment2]
 2. Due: Sunday, 17/12/2023 11 PM
 3. The guideline is as follows:
    
