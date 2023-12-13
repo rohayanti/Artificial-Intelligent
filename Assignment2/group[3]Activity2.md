@@ -1,4 +1,4 @@
-a) Survey Report (10 questions-and-answer for the chatbot)
+a) Survey Report
 
 1. How do I request maintenance or report issues in my hostel room?
 
