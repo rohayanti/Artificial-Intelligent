@@ -74,3 +74,72 @@ a) Survey Report
 
 b) UI flow diagram
 ![WhatsApp Image 2023-12-13 at 8 42 39 PM](https://github.com/rohayanti/Artificial-Intelligent/assets/78629627/1b3e6312-f9ca-4329-b6a9-e17e0f9db98f)
+
+c) Knowledge representation in KB (at least 10)
+
+
+
+
+
+
+
+Assume:
+
+Constants:
+
+C: Chatbot
+
+x: Variable representing individuals in the domain
+
+Predicates:
+
+ND: NeedsDirections
+
+HQ: HasQuestion
+
+SGP: SeeksGuidanceOnProcedures
+
+NSH: NeedsStoreHours
+
+SC: SubmitsComplaint
+
+SF: SubmitsFeedback
+
+PI: PositiveInteraction
+
+SI: SeeksInformation
+
+EI: EncountersIssue
+
+RCE: RequestsCampusEventDetails
+
+PAN: ProvidesNavigationAssistance
+
+QIR: QuickInformationRetrieval
+
+OPI: OffersProceduralInformation
+
+SIR: SuppliesInformation
+
+PR: PromptResolution
+
+RF: RecordsFeedback
+
+ETS: EnhancesSatisfaction
+
+URA: UnderstandsAndResponds
+
+PS: ProvidesSolution
+
+CED: CampusEventDetails
+
+![WhatsApp Image 2023-12-17 at 9 21 35 PM](https://github.com/rohayanti/Artificial-Intelligent/assets/78629627/bf339eb9-d106-449d-91f2-90d912844083)
+![WhatsApp Image 2023-12-17 at 9 21 53 PM](https://github.com/rohayanti/Artificial-Intelligent/assets/78629627/bea678a4-3812-4c83-9ea7-2814d0e3573e)
+
+d) new knowledge using resolution refutation proving tree (stimulate)
+
+![WhatsApp Image 2023-12-17 at 9 18 27 PM](https://github.com/rohayanti/Artificial-Intelligent/assets/78629627/59970b70-97ad-4657-a668-3b152f6d1d9a)
+
+e)User Interface
+
+![WhatsApp Image 2023-12-17 at 9 23 55 PM](https://github.com/rohayanti/Artificial-Intelligent/assets/78629627/373bb8b3-da08-40c6-8a85-9dd8c2060362)
