@@ -24,7 +24,8 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Topic 2 Part 1](./materials/02Topic2.pdf)
     - 🔥 [Topic 2 Part 2](./materials/02Topic2Part2.pdf)
     - 🔥 [Topic 3 Part 1](./materials/03Topic3Part1.pdf)
-    - 🔥 [Topic 3 Part 2](./materials/03aTopic3Part2.pdf) 
+    - 🔥 [Topic 3 Part 2](./materials/03aTopic3Part2.pdf)
+    - 🔥 [Topic 6](./materials/06IntelligentAgent.pdf) 
 5. Sample of Questions
     - 🔥 [Objective Topic 1, Topic 2, Topic 3](./Questions/Topic2.md)
     - 🔥 [Structured Topic 1, Topic 2, Topic 3](./materials/RevisionMT23.pdf)
