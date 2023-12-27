@@ -62,7 +62,7 @@ This course offers students a new perspective on the study of Artificial Intelli
 ## Project
 1. [Project Guideline](./project/guideline.md)
 2. [Competition](./materials/AIMLIC2023.pdf)
-3. [Competition](https://github.com/rohayanti/Artificial-Intelligent/tree/main/ebook) 
+3. [Ebook](https://github.com/rohayanti/Artificial-Intelligent/tree/main/ebook) 
 
    
 ## Submission
