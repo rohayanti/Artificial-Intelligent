@@ -40,9 +40,18 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Submission](https://github.com/rohayanti/Artificial-Intelligent/tree/main/Assignment2)
     - 🔥 [Group 2](./Assignment2/group[2]A2.md)  
     - 🔥 [Group 3](./Assignment2/group[3]Activity2.md) 
-    - 🔥 [Group 4](./Assignment1/)
+    - 🔥 [Group 4](./Assignment2/)
 9. Assignment 3
-10. Prototype
+    - 🔥 [Submission](https://github.com/rohayanti/Artificial-Intelligent/tree/main/Assignment3)
+    - 🔥 [Group 2](./Assignment3/)  
+    - 🔥 [Group 3](./Assignment3/) 
+    - 🔥 [Group 4](./Assignment3/)
+      
+11. ## Project - Prototype Development & Competition
+- 🔥 [Project Guideline](./project/guideline.md)
+- 🔥 [Competition](./materials/AIMLIC2023.pdf)
+- 🔥 [Ebook](https://github.com/rohayanti/Artificial-Intelligent/tree/main/ebook)
+- 🔥 [Submission](./project/readme.md)    
 
 
 ### Weekly Schedule
@@ -61,15 +70,6 @@ This course offers students a new perspective on the study of Artificial Intelli
 | 15   | 14-20 Jan            | Project Demo, Peer Review Part 2          |                                                                 |
 | 16-18|                      | REVISION WEEK AND FINAL EXAM              |                                                                 |
 
-
       
-## Project
-1. [Project Guideline](./project/guideline.md)
-2. [Competition](./materials/AIMLIC2023.pdf)
-3. [Ebook](https://github.com/rohayanti/Artificial-Intelligent/tree/main/ebook) 
-
-   
-## Submission
-
 ## Tools
 
