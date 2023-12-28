@@ -33,12 +33,16 @@ This course offers students a new perspective on the study of Artificial Intelli
 6. Assignment 1
     - 🔥 [Submission](./Assignment1/A1.md)
     - 🔥 [Sample of A1](./Assignment1/A1SampleProposal.md)
-    - 🔥 [Group 2](./Assignment1/)
-    - 🔥 [Group 3](./Assignment1/)
-    - 🔥 [Group 4](./Assignment1/)
+    - 🔥 [Group 2](./Assignment1/group[2]A1.md) 
+    - 🔥 [Group 3](./Assignment1/Assignment 1  - Proposal Group 3.pdf)
+    - 🔥 [Group 4](./Assignment1/group[4]a1.md) 
 7. Assignment 2
-8. Assignment 3
-9. Prototype
+    - 🔥 [Submission](https://github.com/rohayanti/Artificial-Intelligent/tree/main/Assignment2)
+    - 🔥 [Group 2](./Assignment2/group[2]A2.md)  
+    - 🔥 [Group 3](./Assignment2/group[3]Activity2.md) 
+    - 🔥 [Group 4](./Assignment1/)
+9. Assignment 3
+10. Prototype
 
 
 ### Weekly Schedule
