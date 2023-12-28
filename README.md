@@ -40,7 +40,7 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Submission](https://github.com/rohayanti/Artificial-Intelligent/tree/main/Assignment2)
     - 🔥 [Group 2](./Assignment2/group[2]A2.md)  
     - 🔥 [Group 3](./Assignment2/group[3]Activity2.md) 
-    - 🔥 [Group 4](./Assignment2/)
+    - 🔥 [Group 4](./Assignment2/Group4A2.md) 
 9. Assignment 3
     - 🔥 [Submission](https://github.com/rohayanti/Artificial-Intelligent/tree/main/Assignment3)
     - 🔥 [Group 2](./Assignment3/)  
