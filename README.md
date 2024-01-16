@@ -27,7 +27,8 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Topic 3 Part 2](./materials/03aTopic3Part2.pdf)
     - 🔥 [Topic 6](./materials/06IntelligentAgent.pdf) 
     - 🔥 [Topic 7](./materials/05BuildingControlAlgorithm.pdf) 
-    - 🔥 [Topic 8](./materials/07aMachineLearning.pdf) 
+    - 🔥 [Topic 8](./materials/07aMachineLearning.pdf)
+    - 🔥 [Revision for FE](./materials/revisionFE.pdf)
 5. Sample of Questions
     - 🔥 [Objective Topic 1, Topic 2, Topic 3](./Questions/Topic2.md)
     - 🔥 [Structured Topic 1, Topic 2, Topic 3](./materials/RevisionMT23.pdf)
