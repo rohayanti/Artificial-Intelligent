@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Schedule Helper</title>
+    </head>
+    <body>
+        <h1>Loading Schedule Helper</h1>
+    </body>
+</html>
+// Import the Botpress WebChat JavaScript file
+<script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
+
+// Initialize the Botpress WebChat with the required parameters
+<script>
+    window.botpressWebChat.init({
+        // Replace <your-bot-id> and <your-client-id> with your actual bot and client IDs
+        botId: "62f26207-b43c-44bb-bd86-ab0ca2ec945a",
+        clientId: "62f26207-b43c-44bb-bd86-ab0ca2ec945a",
+
+        // Set the URL for the Botpress WebChat JavaScript file and the messaging server
+        hostUrl: "https://cdn.botpress.cloud/webchat/v0",
+        messagingUrl: "https://messaging.botpress.cloud",
+
+        // Set the name of the bot that will be displayed in the WebChat interface
+        botName: "Schedule Helper",
+
+        // Set the width of the WebChat container and layout to 100% (Full Screen)
+        containerWidth: "100%25",
+        layoutWidth: "100%25",
+
+        // Hide the widget and disable animations
+        hideWidget: true,
+        disableAnimations: true,
+        avatarUrl: "https://repository-images.githubusercontent.com/324610438/609ee580-4b5d-11eb-86aa-d3064cd043d8",
+        stylesheet: "https://webchat-styler-css.botpress.app/prod/75e94d1d-f7d2-49d5-8cfa-117f14945a05/v49778/style.css",
+        enableConversationDeletion: true,
+        themeName: "prism",
+        theme: "prism",
+        themeColor: "#2563eb",
+    });
+
+    // Opens up the Chatbot by default
+    // This lets users start chatting with the Chatbot without needing to click any buttons or menus.
+    window.botpressWebChat.onEvent(
+        function () {
+            window.botpressWebChat.sendEvent({ type: "show" });
+        },
+        ["LIFECYCLE.LOADED"]
+    );
+</script>
