@@ -25,8 +25,10 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Topic 2 Part 2](./materials/02Topic2Part2.pdf)
     - 🔥 [Topic 3 Part 1](./materials/03Topic3Part1.pdf)
     - 🔥 [Topic 3 Part 2](./materials/03aTopic3Part2.pdf)
-    - 🔥 [Topic 6](./materials/06IntelligentAgent.pdf)
-    - 🔥 [Topic 8](./materials/07aMachineLearning.pdf) 
+    - 🔥 [Topic 6](./materials/06IntelligentAgent.pdf) 
+    - 🔥 [Topic 7](./materials/05BuildingControlAlgorithm.pdf) 
+    - 🔥 [Topic 8](./materials/07aMachineLearning.pdf)
+    - 🔥 [Revision for FE](./materials/revisionFE.pdf)
 5. Sample of Questions
     - 🔥 [Objective Topic 1, Topic 2, Topic 3](./Questions/Topic2.md)
     - 🔥 [Structured Topic 1, Topic 2, Topic 3](./materials/RevisionMT23.pdf)
@@ -40,7 +42,7 @@ This course offers students a new perspective on the study of Artificial Intelli
     - 🔥 [Submission](https://github.com/rohayanti/Artificial-Intelligent/tree/main/Assignment2)
     - 🔥 [Group 2](./Assignment2/group[2]A2.md)  
     - 🔥 [Group 3](./Assignment2/group[3]Activity2.md) 
-    - 🔥 [Group 4](./Assignment2/)
+    - 🔥 [Group 4](./Assignment2/Group4A2.md) 
 9. Assignment 3
     - 🔥 [Submission](https://github.com/rohayanti/Artificial-Intelligent/tree/main/Assignment3)
     - 🔥 [Group 2](./Assignment3/)  
@@ -72,4 +74,4 @@ This course offers students a new perspective on the study of Artificial Intelli
 
       
 ## Tools
-
+- 🔥 [Bot Press](https://botpress.com/docs/cloud/getting-started/create-and-publish-your-chatbot/) 
